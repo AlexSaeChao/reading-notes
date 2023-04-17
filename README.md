@@ -12,7 +12,7 @@ Growth mindset is a how we as humans challenge our thinking for growth.
 5. Learning from the success of others help you see the world in a different way. If your peers are ahead, they are another resource for you if time is available.
 ___
 ### About Me
-Hi there, I'm Chao and I go by he/him. ~~I'm here to party~~ I'm here to flex what I've learned with code fellows. I love art and have just started to watch DnD podcasts on Youtube and Spotify. Glad to be here and take care!
+> Hi there, I'm Chao and I go by he/him. ~~I'm here to party~~ I'm here to flex what I've learned with code fellows. I love art and have just started to watch DnD podcasts on Youtube and Spotify. Glad to be here and take care!
 
 
 [GitHub](https://alexsaechao.github.io/reading-notes/)
