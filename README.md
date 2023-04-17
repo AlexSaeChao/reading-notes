@@ -19,4 +19,4 @@ ___
 > Hi there, I'm Chao and I go by he/him. ~~I'm here to party~~ I'm here to flex what I've learned with code fellows. I love art and have just started to watch DnD podcasts on Youtube and Spotify. Glad to be here and take care!
 
 
-[GitHub](https://alexsaechao.github.io/reading-notes/)
+[GitHub](https://github.com/AlexSaeChao)
