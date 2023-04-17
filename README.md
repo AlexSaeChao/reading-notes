@@ -20,3 +20,4 @@ ___
 
 
 [GitHub](https://github.com/AlexSaeChao)
+![Photo of Chao, Short black hair, glasses, black shirt, black studded earrings, smirk](portrait.jpg)
