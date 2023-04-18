@@ -1,12 +1,14 @@
 # The Coder's Computer
 
-Looking into Text Editors can seem quite scary. But choosing one is as easy as does it suit to your preference. Just know tha the text editor that comes in house with your computer are quite bland do to not having the 4 features that really help the efficancy of spewing out code.  
+Looking into Text Editors can seem quite scary. But choosing one is as easy as does it suit to your preference. Just know the text editor that comes in house with your computer are quite bland, they highly likely do not having the 4 features that really help the efficiency of spewing out code.
+
+The main things to keep in mind looking for a text editor are:
 
 The main things to keep in mind looking for a text editor are:
 1. code completion **when starting to type in your text editor it will suggest/display possible solutions to what you are writing.** 
-2. syntax highlighting **parts of your code will be highlighted with like things to differenate from the rest of the lines, for readability**
-3. An option rich of themes **to reduce eyestrain and fatigue, dark theme for the win**
-4. The ability to choose from a too many of extensions. **Like plugins to make the text editor do things that it wouldn't normal do**
+2. syntax highlighting **parts of your code will be highlighted with like things to differentiate from the rest of the lines, for readability**
+3. An option rich of themes **to reduce eyestrain and fatigue, dark theme for the win.**
+4. The ability to choose from a too many of extensions. **Like plugins to make the text editor do things that it wouldn't normal do.**
 
 ### Questions for the reading:
 * What are four important features to look for in a text editor?
