@@ -38,3 +38,12 @@ A few of the more commonly used markdowns are:
 	**Links are created in mark with ```[Caption/description_of_said_link_or_text_shown_after_compiling](Link_itself_or_URL)```**
 * What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 	**The three symbols used to create an unordered list are Dashes(-), Asterisk(*), and the Plus Sign (+).**
+
+### References from the readings:
+
+[Getting Started](https://www.markdownguide.org/getting-started/)
+Read only “What is Markdown” and “Why Use Markdown” sections
+
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+[Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
