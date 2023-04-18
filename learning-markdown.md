@@ -6,7 +6,7 @@ The main reason to use markdown is that it is basically universal among the diff
 Mark down files are denoted with the file of 'Name_of_File'.md
 A few of the more commonly used markdowns are:
 1. Headings
-	* Title
+	# Title
 2. Styling Text
 	for bold text: ** this text is bold. **
 3. Quoting Text
