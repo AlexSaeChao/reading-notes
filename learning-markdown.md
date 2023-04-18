@@ -8,7 +8,7 @@ A few of the more commonly used markdowns are:
 1. Headings
 	* Title
 2. Styling Text
-	for bold text: ** this text is bold. ** '''
+	for bold text: ** this text is bold. **
 3. Quoting Text
 	for quoting text: > This is a quote.
 4. Links
