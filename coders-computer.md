@@ -1,4 +1,4 @@
-### The Coder's Computer
+# The Coder's Computer
 
 Looking into Text Editors can seem quite scary. But choosing one is as easy as does it suit to your preference. Just know tha the text editor that comes in house with your computer are quite bland do to not having the 4 features that really help the efficancy of spewing out code.  
 
@@ -10,24 +10,48 @@ The main things to keep in mind looking for a text editor are:
 
 ### Questions for the reading:
 * What are four important features to look for in a text editor?
-	** code completion, syntax highlighting, themes, and extentions**
+	**code completion, syntax highlighting, themes, and extentions**
 
 * What do the following commands do?
-	* pwd **display current location**
-	* ls **list what is in directory**
-	* cd **to move or change folder/directory**
-	* mkdir **make a folder here, will need to add name after** 
-	* touch ** to make contentless file in directory**
+	* pwd 
+	
+		**display current location**
+	* ls 
+
+		**list what is in directory**
+	* cd 
+
+		**to move or change folder/directory**
+	* mkdir 
+
+		**make a folder here, will need to add name after** 
+	* touch 
+
+		**to make contentless file in directory**
 
 * Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-	1. cd projects
-	2. mkdir new-project
-	3. touch new-project/newfile.md
-	4. cd ..
-	5. ls projects/new-project
 
-Line 1 says move to folder called projects
-Line 2 says make a new folder called new-projects
-Line 3 make a empty file called newfile.md in folder new-project
-Line 4 says to move up in the folder stucture to folder projects
-Line 5 is asking to list out what file is in the folder new-project
+	* cd projects
+
+		**Line 1 says move to folder called projects**
+	* mkdir new-project
+
+		**Line 2 says make a new folder called new-projects**
+	* touch new-project/newfile.md
+
+		**Line 3 make a empty file called newfile.md in folder new-project**
+	* cd ..
+
+		**Line 4 says to move up in the folder stucture to folder projects**
+	* ls projects/new-project
+
+		**Line 5 is asking to list out what file is in the folder new-project**
+
+
+### References to the readings
+
+[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
+[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
