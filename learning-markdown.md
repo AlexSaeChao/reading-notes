@@ -31,18 +31,18 @@ A few of the more commonly used markdowns are:
 	* How many do you need to create the largest heading?
 		**You would use just 1 '#' to create the largest heading.**
 	* How many do you need to create the smallest heading?
-		**You would use 3 '#' to create the largest heading.**
+		**You would use 6 '#' to create the largest heading.**
 * When making text bold or italicized for emphasis, it is best practice to use which symbol?
-	**When marking text for emphasis an astrisk (*) is used as best practice as some text editors might not work other symbols.**
+	**When marking text for emphasis an asterisk (*) is used as best practice as some text editors might not work other symbols.**
 * How do you create a link with Markdown?
 	**Links are created in mark with ```[Caption/description_of_said_link_or_text_shown_after_compiling](Link_itself_or_URL)```**
 * What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-	**The three symbols used to create an unordered list are Dashes(-), Asterisk(*), and the Plus Sign (+).**
+	**The three symbols used to create an unordered list are Dashes (-), Asterisk (*), and the Plus Sign (+).**
 
 ### References from the readings:
 
 [Getting Started](https://www.markdownguide.org/getting-started/)
-Read only “What is Markdown” and “Why Use Markdown” sections
+Read only “What is Markdown” and “Why Use Markdown” sections.
 
 [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
