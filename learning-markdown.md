@@ -1,5 +1,5 @@
 # Class 01 Notes
-
+## NOTE: you probably want to read this in plain text as github is compiling the markdowns
 Markdown is a light weight markup language used for text formating elements in a plain text file.
 Using markdown are not the same as WYSIWYG (what you see is what you get) text editor. WYSISYG text editors are editors such as Microsoft Word and Google Docs. The main restriction in these WYSIWYG editors is that they are creating a propritary file format that can only be open with the text editor that created it.
 The main reason to use markdown is that it is basically universal among the different platforms of hardware and software.
@@ -8,7 +8,7 @@ A few of the more commonly used markdowns are:
 1. Headings
 	* Title
 2. Styling Text
-  for bold text: ** this text is bold. ** '''
+	for bold text: ** this text is bold. ** '''
 3. Quoting Text
 	for quoting text: > This is a quote.
 4. Links
