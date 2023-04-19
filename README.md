@@ -2,7 +2,7 @@
 
 ## Thank you for passing by this page
 
-This page is the home page for my reading notes as i go through Code Fellows. Below are the table of contents.
+This page is the home page for my reading notes as I go through Code Fellows. Below are the table of contents.
 
 ### Table of Contents
 
@@ -18,22 +18,22 @@ This page is the home page for my reading notes as i go through Code Fellows. Be
 * [Operators and Loops]("#")
 
 #### Code 201 (15 total)
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
-* [Title has yet to be discovered]("#")
 
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
+* [Title has yet to be discovered]("#")
 
 ### About Me
 
