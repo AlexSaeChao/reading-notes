@@ -9,7 +9,7 @@ This page is the home page for my reading notes as i go through Code Fellows. Be
 #### Code 102 (8 total)
 
 * [Learning Markdown](https://alexsaechao.github.io/reading-notes/learning-markdown)
-* [The Coder's Computer]("https://alexsaechao.github.io/reading-notes/coders-computer")
+* [The Coder's Computer](https://alexsaechao.github.io/reading-notes/coders-computer)
 * [Revision and the Cloud]("#")
 * [Structure web pages with HTML]("#")
 * [Design webpages with CSS]("#")
