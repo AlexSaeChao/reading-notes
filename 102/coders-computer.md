@@ -4,8 +4,6 @@ Looking into Text Editors can seem quite scary. But choosing one is as easy as d
 
 The main things to keep in mind looking for a text editor are:
 
-The main things to keep in mind looking for a text editor are:
-
 1. code completion **when starting to type in your text editor it will suggest/display possible solutions to what you are writing.**
 2. syntax highlighting **parts of your code will be highlighted with like things to differentiate from the rest of the lines, for readability**
 3. An option rich of themes **to reduce eyestrain and fatigue, dark theme for the win.**
