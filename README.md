@@ -8,14 +8,14 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 
 #### Code 102 (8 total)
 
-* [Learning Markdown](https://alexsaechao.github.io/reading-notes/learning-markdown)
-* [The Coder's Computer](https://alexsaechao.github.io/reading-notes/coders-computer)
-* [Revision and the Cloud]("#")
-* [Structure web pages with HTML]("#")
-* [Design webpages with CSS]("#")
-* [Activate webpages with JavaScript]("#")
-* [Programming with JavaScript]("#")
-* [Operators and Loops]("#")
+* [Learning Markdown](102/learning-markdown.md)
+* [The Coder's Computer](102/coders-computer.md)
+* [Revision and the Cloud](102/revisions-and-the-cloud.md)
+* [Structure web pages with HTML](/102/structuring-webpages-with-html.md)
+* [Design webpages with CSS](102/design-webpages-with-css.md)
+* [Activate webpages with JavaScript](102/activate-webpages-with-javascript.md)
+* [Programming with JavaScript](102/programming-with-javascript.md)
+* [Operators and Loops](102/operators-and-loops.md)
 
 #### Code 201 (15 total)
 
