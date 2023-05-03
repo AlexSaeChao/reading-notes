@@ -20,8 +20,8 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 #### Code 201 (15 total)
 
 * [Title has yet to be discovered]("#")
-* [Basics of HTML, CSS and Javascript]("201/basics-of-html-css-and-javascript.md")
-* [HTML Lists, Control Flow with JS, and the CSS Box Model]("/201/html-lists-controlflow.md")
+* [Basics of HTML, CSS and Javascript](201/basics-of-html-css-and-javascript.md)
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](/201/html-lists-controlflow.md)
 * [Title has yet to be discovered]("#")
 * [Title has yet to be discovered]("#")
 * [Title has yet to be discovered]("#")
