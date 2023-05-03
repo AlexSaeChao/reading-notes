@@ -71,7 +71,7 @@ console.log(people[2]);
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
 
-* It would evaluate to `'10falsedog'` It would concatenate the value 10 with the boolean false after converting the boolean expression into a string then tack on dog within the string.
+* It would evaluate to `'10dog'` It would take the value 10 with the boolean false which is considered to be the value 0 (`10 + 0`) after converting thesum of those values into a string then tack on dog within the string.
 
 ```
  let a = 10;
