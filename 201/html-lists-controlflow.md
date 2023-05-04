@@ -8,7 +8,7 @@
 
 2. How do you change the bullet style of unordered list items?
 
-* Using CSS you can change the bullet styles. using a list-style-type property can be used to specify the type of marker or bullet that can be used for the list of items 
+* Using CSS you can change the bullet styles. using a list-style-type property can be used to specify the type of marker or bullet that can be used for the list of items
 
 3. When should you use an ordered list vs an unorder list in your HTML document?
 
@@ -17,10 +17,11 @@
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
 Learn CSS
 
-* With CSS you can change normal numbers to lower-roman numerals.(i, ii, iii, iv, v, etc) there is also decimals to display regular numbers (1, 2, 3, 4, 5, etc.) 
+* With CSS you can change normal numbers to lower-roman numerals.(i, ii, iii, iv, v, etc) there is also decimals to display regular numbers (1, 2, 3, 4, 5, etc.)
 
-## Learn CSS 
-### The Box Model.
+## Learn CSS
+
+### The Box Model
 
 1. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
 
@@ -35,8 +36,7 @@ Learn CSS
 
 ## Learn JS
 
-### Arrays. Operators and Expressions. Conditionals. Loops.
-
+### Arrays. Operators and Expressions. Conditionals. Loops
 
 1. What data types can you store inside of an Array?
 
@@ -47,6 +47,7 @@ Learn CSS
 * Think of it like a narrow excel sheet, a military map, or the game battleship. You can access the stored values with coordinates. Lets say you have a list of names and indexing (starting) at 0 for the first value
 
 example below:
+
 ```
 const people = ['Kevin', 'Patty', 'Zeke'];
 console.log(people[2]);

@@ -2,7 +2,7 @@
 
 HTML:
 
-1. Why is it important to use semantic elements in our HTML? 
+1. Why is it important to use semantic elements in our HTML?
 
 2. Semantic elements help us as devs to fill the element appropriately with content and meaning to context.  
 3. How many levels of headings are there in HTML?
@@ -14,11 +14,11 @@ HTML:
 CSS
 
 * What are ways we can apply CSS to our HTML?
-    * CSS stands for Cascading Style Sheets.
+  * CSS stands for Cascading Style Sheets.
 It is used to add styles and formatting to HTML documents.
 There are three ways to use CSS to HTML, there are inline styles, internal styles, and external styles. Inline and internal styles are used inside the HTML document. Inline styles are put into the tags directly in the html. Internal styles use a style tag. External is used in a separate CSS document from the HTML doc and will have the lowest priority to be applied used with a link tag.
 * Why should we avoid using inline styles?
-    - Inline is used on the line direct which will have the highest priority of the 3. Though you may not want to use it as it may be difficult to maintain. Meaning if you want edits and editing the CSS document doesn't change it, you may have to dig through the HTML document to search for the inline code.  
+  * Inline is used on the line direct which will have the highest priority of the 3. Though you may not want to use it as it may be difficult to maintain. Meaning if you want edits and editing the CSS document doesn't change it, you may have to dig through the HTML document to search for the inline code.  
 * Review the block of code below and answer the following questions:
 
     ```
@@ -28,12 +28,12 @@ There are three ways to use CSS to HTML, there are inline styles, internal style
    }
     ```
 
-    * What is representing the selector?
-        * h2 would be the selector
-    * Which components are the CSS declarations?
-        * `color: black;` and `padding: 5px;`
-    * Which components are considered properties?
-        * `color` and `padding` are properties of the CSS declarations
+  * What is representing the selector?
+    * h2 would be the selector
+  * Which components are the CSS declarations?
+    * `color: black;` and `padding: 5px;`
+  * Which components are considered properties?
+    * `color` and `padding` are properties of the CSS declarations
 
 Javascript
 
@@ -41,12 +41,9 @@ Javascript
 * List 4 types of JavaScript operators.
 * Describe a real world Problem you could solve with a Function.
 
-
 * An if statement checks a __ and if it evaluates to ___, then the code block will execute.
 * What is the use of an else if?
 * List 3 different types of comparison operators.
 * What is the difference between the logical operator && and ||?
 
-
 ## Things I want to know more about
-
