@@ -2,12 +2,14 @@
 
 HTML:
 
-* Why is it important to use semantic elements in our HTML? 
-    * Semantic elements help us as devs to fill the element appropriately with content and meaning to context.  
-* How many levels of headings are there in HTML?
-    * There are 6 heading levels h1 has the highest heirchy and h6 being the lowest.
-* What are some uses for the `<sup>` and `<sub>` elements?
-* When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
+1. Why is it important to use semantic elements in our HTML? 
+
+2. Semantic elements help us as devs to fill the element appropriately with content and meaning to context.  
+3. How many levels of headings are there in HTML?
+
+4. There are 6 heading levels h1 has the highest heirchy and h6 being the lowest.
+5. What are some uses for the `<sup>` and `<sub>` elements?
+6. When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 
 CSS
 
