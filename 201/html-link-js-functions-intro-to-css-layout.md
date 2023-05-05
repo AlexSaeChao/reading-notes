@@ -54,7 +54,11 @@ These are important to what I am learning so far because links are everywhere, w
   * for me the 2 most beneficial parts of pair programming areSocial Skills and Job readiness interviews. Learning to communicate the best way to make sure minimal misunderstandings happen and working as part of a team is a must. to be honest it's probably what I need to work on the most.
 
 ## Things I want to know more about
+* Relative Postioning leaves space behind so that the other elements still intract with the box model .
+* Giving an absolute postion to an element, it's space gets elimnated. and content can move behind it.
 
+
+### References
 * [Reading for HTML hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 * [CSS Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 * [CSS Layout postion](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
