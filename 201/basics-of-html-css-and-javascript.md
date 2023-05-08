@@ -29,7 +29,7 @@ There are three ways to use CSS to HTML, there are inline styles, internal style
     ```
 
   * What is representing the selector?
-    * h2 would be the selector
+    * h2 would be the selector in the code above.
   * Which components are the CSS declarations?
     * `color: black;` and `padding: 5px;`
   * Which components are considered properties?
@@ -38,12 +38,39 @@ There are three ways to use CSS to HTML, there are inline styles, internal style
 Javascript
 
 * What data type is a sequence of text enclosed in single quote marks?
+  * A string is a sequence of text or data type
 * List 4 types of JavaScript operators.
+  * Arithmetic operators: used to perform operations on numeric values. Examples include `+` addition, `-` subtraction, `*` multiplication, `/` division
+
+  * Comparison operators: used to compare two values and return a true or false. Examples include `==` equal to, `!=` not equal to, `>` greater than, `<` less than, `>=` greater than or equal to, `<=` less than or equal to
+
+  * Logical operators: used to combine two or more conditions and return a Boolean result. Examples include `&&` logical AND, `||` logical OR, `!` logical NOT
+
+  * Assignment operators: used to assign values to variables. Examples include = simple assignment, `+=` addition assignment, `-=` subtraction assignment, `*=` multiplication assignment, `/=` division assignment, `%=` modulus assignment
+
 * Describe a real world Problem you could solve with a Function.
 
+  * Really any tasks the deals with math of sort. like if you were running a shoe store and wanted to know how much stock you had in the value of dollars.
+
 * An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+
+  * An if statement checks a condition and if it evaluates to true, then the code block will execute.
+
 * What is the use of an else if?
+
+  * Else if is used whe na condition is false and then runs a code if that condition is true. 
+
 * List 3 different types of comparison operators.
+
+  * Equality Operators: comparisons if values are true loosly `==` or strictly `===`
+  * Relational Operators: like comparision operators for JavaScript above
+  * Logical Operators: are the boolean operators like the the logical operators for JavaScript above
+
 * What is the difference between the logical operator && and ||?
 
+  * `&&` operator checks if both conditions are true they return a boolean result of true while the `||` if any of the conditions are true it would return the boolean result of true. 
+
+
 ## Things I want to know more about
+
+Nothing at this time.
