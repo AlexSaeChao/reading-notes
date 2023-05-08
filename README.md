@@ -21,7 +21,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 
 * [Intro to HTML](201/reading-01-intro-to-html.md)
 * [Basics of HTML, CSS and Javascript](201/reading-02-basics-of-html-css-and-javascript.md)
-* [HTML Lists, Control Flow with JS, and the CSS Box Model](201/html-link-js-functions-intro-to-css-layout.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](201/html-link-js-functions-intro-to-css-layout.md)
 * [HTML Lists, Control Flow with JS, and the CSS Box Model](201/html-lists-controlflow.md)
 * [Images, Color, Text](201/reading-05-images-color-text.md)
 * [Title has yet to be discovered]("#")
