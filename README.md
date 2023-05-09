@@ -25,7 +25,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [HTML Lists, Control Flow with JS, and the CSS Box Model](201/html-lists-controlflow.md)
 * [Images, Color, Text](201/reading-05-images-color-text.md)
 * [Problem Domain, Objects, and the DOM](201/reading-06-problem-domain-objects-and-the-dom.md)
-* [Title has yet to be discovered]("#")
+* [Object-Oriented Programming, HTML Tables](201/reading-07-object-oriented-programming-html-tables.md)
 * [Title has yet to be discovered]("#")
 * [Title has yet to be discovered]("#")
 * [Title has yet to be discovered]("#")
