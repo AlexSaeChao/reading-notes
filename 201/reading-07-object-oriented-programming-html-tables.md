@@ -20,6 +20,25 @@ Domain modeling is needed because it can get information and return it to us so 
 
 A constuctor is called when a new object is created using the `new` keyword. They are reusable code. You can change the behavoirs of an object by changing just one area. You could make them inherit traits of another as well.
 
+Creating a new object starts off with
+```
+let personA = {
+  name: 'Alex',
+  title: 'Student',
+  course: 201d100,
+}
+
+function Person(firstName, title){
+  this.name = firsName;
+  this.title = title;
+  this.course = '201d100';
+}
+
+let aaron = new Person('Aaron', 'Student');
+console.log(aaron)
+
+```
+
 *How does the term `this` differ when used in an object literal versus when used in a constructor?*
 
 When `this` is used in a object literal it refers to the object where `this` is being used while in a constructor, `this` talked about the object being created by the constructor.
@@ -28,6 +47,17 @@ When `this` is used in a object literal it refers to the object where `this` is 
 NOTE: This is a very common front end developer interview question*
 
 From my past experience of crafting things, prototypes in general are just like creating a template. With this template you can follow the design and alter it when needed to design something new. But since your using the template to create the new design there are some traits that are inherited from the template.
+
+A unique greeting:
+```
+Person.prototype.greeting = function(){
+  console.log(`Hey ${this.course}, my name is ${this.name}`);
+}
+
+alex.greeting();
+aaron.greeting();
+
+```
 
 ## Things i would like to learn more about
 What kinds of utilities or apps can be made with js to help learning?
