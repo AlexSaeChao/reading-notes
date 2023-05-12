@@ -28,7 +28,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Object-Oriented Programming, HTML Tables](201/reading-07-object-oriented-programming-html-tables.md)
 * [CSS Layout](201/reading-08-css-layout.md)
 * [Forms and JS Events](201/reading09-forms-and-js-events.md)
-* [Title has yet to be discovered]("#")
+* [Debugging](201/reading-10-debugging.md)
 * [Title has yet to be discovered]("#")
 * [Title has yet to be discovered]("#")
 * [Title has yet to be discovered]("#")
