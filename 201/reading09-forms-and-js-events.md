@@ -40,3 +40,38 @@ Bubbling up is when an event occurs in a nested element but is shown in it's par
 
 When using a text area element are there limits to the characters used or is that defined by the person writing it?
 Are there different langauge inputs and how is it displayed for the server/person looking at the submission form?
+
+## Other Notes
+
+Types:
+* click
+* submit
+* keypress
+* hover
+* mouseover
+* page load
+
+### Javascript Code: Event Listener
+
+- Target an HTML element to "listen" to
+- type of event listed as a string
+- event handlet // callback function -> a functinog that is passed in another function as an arguement (not invoked)
+- we dont invoke the call back, the event listener method will do something for us when it hears the event.
+
+
+```javascript
+
+let button = document.querySelector('button');
+
+button.addEventListener('click', handleClick) // method to listen to an HTML element
+
+```
+
+### Javascript - code part 2: Event Handler - callback function
+
+``` javascript
+function handleClick(){
+  console.log('this button was clicked..')
+}
+```
+
