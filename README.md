@@ -31,7 +31,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Debugging](201/reading-10-debugging.md)
 * [Audio, Video, Images](201/reading-11-audio-video-images.md)
 * [Chart.js, Canvas](201/reading-12-chart-js-canvas.md)
-* [Title has yet to be discovered]("#")
+* [Local Storage](201/reading-13-local-storage.md)
 * [Title has yet to be discovered]("#")
 * [Title has yet to be discovered]("#")
 
