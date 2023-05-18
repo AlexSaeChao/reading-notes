@@ -1,6 +1,7 @@
 # Psychological Safety
 
-This page talks about 
+This page talks about psychological safety. Psychological safety is a vital component of a healthy work environment, where individuals can thrive, contribute their best work, and reach their full potential. It promotes trust, inclusivity, and mutual respect, enabling teams to unleash their collective potential and achieve success.
+
 
 What are three key factors that contribute to psychologically safe teams?
 
@@ -10,7 +11,7 @@ What are three key factors that contribute to psychologically safe teams?
 
 Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
 
-from what I have experienced here at code fellows I love being supported in all those ways. fostering a place of open comms when life happens. Code fellows has a excellent implementation of psychological safety. Just from their engagement of staff with their students alone are enough got me to recommend this to anyone who are willing.
+From what I have experienced here at code fellows I love being supported in all those ways. fostering a place of open comms when life happens. Code fellows has a excellent implementation of psychological safety. Just from their engagement of staff with their students alone are enough got me to recommend this to anyone who are willing.
 
 What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
 
