@@ -37,7 +37,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 
 ## Code 301 - Intermediate Software Development (15 total)
 
-* [Title TBD](Link Here)
+* [Introduction to React and Components](301/reading-01-introduction-to-react-and-components)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
