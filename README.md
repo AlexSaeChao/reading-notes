@@ -4,9 +4,9 @@
 
 This page is the home page for my reading notes as I go through Code Fellows. Below are the table of contents.
 
-### Table of Contents
+# Table of Contents
 
-#### Code 102 (8 total)
+## Code 102 - Intro to Software Development (8 total)
 
 * [Learning Markdown](102/learning-markdown.md)
 * [The Coder's Computer](102/coders-computer.md)
@@ -17,7 +17,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Programming with JavaScript](102/programming-with-javascript.md)
 * [Operators and Loops](102/operators-and-loops.md)
 
-#### Code 201 (15 total)
+## Code 201 - Foundations of Software Development (15 total)
 
 * [Intro to HTML](201/reading-01-intro-to-html.md)
 * [Basics of HTML, CSS and Javascript](201/reading-02-basics-of-html-css-and-javascript.md)
@@ -34,6 +34,44 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Local Storage](201/reading-13-local-storage.md)
 * [CSS Transforms and Transitions & Animations](201/reading-14-css-transitions-transforms.md)
 * [Psychological Safety](201/reading-14-psychology-safety.md)
+
+## Code 301 - Intermediate Software Development (15 total)
+
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+
+## Code 401 - Advanced Software Development
+
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
+* [Title TBD](Link Here)
 
 ### About Me
 
