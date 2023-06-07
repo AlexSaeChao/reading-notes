@@ -39,7 +39,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 
 * [Introduction to React and Components](301/reading-01-introduction-to-react-and-components.md)
 * [State and Props](301/reading-02-state-and-props.md)
-* [Title TBD](Link Here)
+* [Passing Functions as Props](301/reading-03-passing-function-as-props)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
