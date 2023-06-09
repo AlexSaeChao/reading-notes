@@ -41,7 +41,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [State and Props](301/reading-02-state-and-props.md)
 * [Passing Functions as Props](301/reading-03-passing-function-as-props.md)
 * [React and Forms](301/reading-04-react-amd-forms.md)
-* [Title TBD](Link Here)
+* [React and Higher-Order Functions](301/reading-05-react-and-higher-order-functions.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
