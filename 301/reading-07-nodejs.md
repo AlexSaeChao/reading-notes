@@ -1,4 +1,6 @@
-An Introduction to Node.js on sitepoint.com
+## An Introduction to Node.js and Pair Programing
+
+This section talks about what is a node and npm and an high level overview of what can they do. This section also has an overview of pair programing.
 
 What is node.js?
 
