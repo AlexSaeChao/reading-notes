@@ -45,7 +45,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [REST](301/reading-06-rest.md)
 * [Node.js](301/reading-07-nodejs.md)
 * [API](301/reading-08-api)
-* [Title TBD](Link Here)
+* [Functional Programming](301\reading-09-functional-programming.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
