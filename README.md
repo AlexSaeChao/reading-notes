@@ -50,7 +50,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [MongoDB and Mongoose](301/reading-11-mogodb-and-mongoose.md)
 * [CRUD](301/reading-12-crud.md)
 * [More CRUD](301/reading-13-more-crud.md)
-* [Title TBD](Link Here)
+* [Diversity, Equity, Inclusion, and Belonging](301/reading-14-diversity-equity-inclusion-belonging.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 
