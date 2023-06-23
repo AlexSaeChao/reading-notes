@@ -53,7 +53,6 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Diversity, Equity, Inclusion, and Belonging](301/reading-14-diversity-equity-inclusion-belonging.md)
 * [Authentication](301/readin-15-authentication.md)
 
-
 ## Code 401 - Advanced Software Development
 
 * [Title TBD](Link Here)
