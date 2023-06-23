@@ -51,8 +51,8 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [CRUD](301/reading-12-crud.md)
 * [More CRUD](301/reading-13-more-crud.md)
 * [Diversity, Equity, Inclusion, and Belonging](301/reading-14-diversity-equity-inclusion-belonging.md)
-* [Title TBD](Link Here)
-* [Title TBD](Link Here)
+* [Authentication](301/readin-15-authentication.md)
+
 
 ## Code 401 - Advanced Software Development
 
