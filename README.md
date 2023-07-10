@@ -56,7 +56,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 ## Code 401 - Advanced Software Development
 
 * [The Command Line](401/prep_the_command_line.md)
-* [Title TBD](Link Here)
+* [The Growth Mindset](401/prep_the_growth_mindset.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
