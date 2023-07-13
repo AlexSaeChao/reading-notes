@@ -60,7 +60,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Java Basics - Read 01](401/read_01.md)
 * [Java Imports, Loops, and Arrays](401/java_import_loops_arrays.md)
 * [Java Primitives VS Objects, Exceptions, Scanners](401/java_primitives_vs_object_exceptions_scanner.md)
-* [Title TBD](Link Here)
+* [Java Object, Class, Binary, Decimal, Hexadecimal](401/java_oo_classes_binary_decimal_hexadecimal.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
