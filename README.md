@@ -63,7 +63,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Java Object, Class, Binary, Decimal, Hexadecimal](401/java_oo_classes_binary_decimal_hexadecimal.md)
 * [Java Objects, Clases, Static Keyword, Singleton Class](401/java_static_keyword_singleton_class.md)
 * [Rule of Three, MVP](401/rule_of_three_mvp.md)
-* [Title TBD](Link Here)
+* [High-level HTTP, Java HTTP Request](401/java_http.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
