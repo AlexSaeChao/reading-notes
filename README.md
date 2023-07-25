@@ -66,7 +66,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [High-level HTTP, Java HTTP Request](401/java_http.md)
 * [PREP - SQL Bolt](401/prep_sql.md)
 * [Java - Spring App](401/java_spring_app.md)
-* [Title TBD](Link Here)
+* [Accessing Data with JPA and Commparing Repos](401/java_get_data_with_jpa.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
