@@ -69,7 +69,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Accessing Data with JPA and Commparing Repos](401/java_get_data_with_jpa.md)
 * [Java - Spring Continued](401/java_spring_one_to_many_testing.md)
 * [Java - Password hashing and bcrypt](401/java_hash_and_crypt.md)
-* [Title TBD](Link Here)
+* [Java - Spring Security](401/java_spring_security.md)
 * [Title TBD](Link Here)
 
 ### About Me
