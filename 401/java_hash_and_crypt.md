@@ -26,7 +26,7 @@ How does the Blowfish block cipher handle the increased computation speed of new
 
 With increasing sppeds of new computers Blowfish can increase the size of keys it can use. Blowfish can efficiently handle key sizes from 32 bits up to 448 bits. To maintain security and slow down brute-force attacks, you can simply increase the key size used in the Blowfish cipher.
 
-What are the issue with the two most commong password hashes for Java (“Java password hash” and “Java password encryption”)?
+What are the issue with the two most common password hashes for Java (“Java password hash” and “Java password encryption”)?
 
 <!-- CHATGPT HELPED WITH THIS QUESTION -->
 
