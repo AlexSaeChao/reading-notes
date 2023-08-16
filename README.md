@@ -71,13 +71,11 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Java - Password hashing and bcrypt](401/java_hash_and_crypt.md)
 * [Java - Spring Security](401/java_spring_security.md)
 * [Spring Boot and OAuth2](401/spring_boot_and_oauth2.md)
-
-
 * [Java - Many to many relationships](401/java_many_to_many.md)
 * [Java - Purely Functional](401/java_purely_functional.md)
 * [Java - Android Fundamentals](401/java_android_fundamentals.md)
 * [Java - Android Shared Preferences, Esspresso, Tasks and Stacks](401/java_android_fundamentals_continued.md)
-* [Title TBD](Link Here)
+* [Java - Android Recycler View](401/java_android_recycler_view.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
