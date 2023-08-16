@@ -20,7 +20,9 @@ This means you can switch between vertical lists, horizontal lists, grids, and m
 
 Share a screenshot of a recycler view in an application you use!
 
-![Screenshot of recycler view in an app, Reddit](file_720.jpg)
+The screen shot shows the app, reddit:
+
+![Screenshot of recycler view in an app, Reddit](/file_720.jpg)
 
 ## Things I want to know more about
 
