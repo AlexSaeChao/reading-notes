@@ -22,7 +22,7 @@ Share a screenshot of a recycler view in an application you use!
 
 The screen shot shows the app, reddit:
 
-![Screenshot of recycler view in an app, Reddit](/file_720.jpg)
+![Screenshot of recycler view in an app, Reddit](/img/file_720.jpg)
 
 ## Things I want to know more about
 
