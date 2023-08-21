@@ -77,7 +77,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Java - Android Shared Preferences, Esspresso, Tasks and Stacks](401/java_android_fundamentals_continued.md)
 * [Java - Android Recycler View](401/java_android_recycler_view.md)
 * [Java - Android Data and Entity with Room](401/java_android_data_entity_with_room.md)
-* [Title TBD](Link Here)
+* [Java - Amplify](401/java_amplify.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
