@@ -4,7 +4,7 @@
 
 This page is the home page for my reading notes as I go through Code Fellows. Below are the table of contents.
 
-# Table of Contents
+## Table of Contents
 
 ## Code 102 - Intro to Software Development (8 total)
 
@@ -79,10 +79,9 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Java - Android Data and Entity with Room](401/java_android_data_entity_with_room.md)
 * [Java - Amplify](401/java_amplify.md)
 * [Java - Amplify Continued](401/java_amplify_continued.md)
+* [Java - GraphQL Relationships and Completable Future](401/java_android_relationships_and_completable_future.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
-* [Title TBD](Link Here)
-
 
 ### About Me
 
