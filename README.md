@@ -80,7 +80,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Java - Amplify](401/java_amplify.md)
 * [Java - Amplify Continued](401/java_amplify_continued.md)
 * [Java - GraphQL Relationships and Completable Future](401/java_android_relationships_and_completable_future.md)
-* [Title TBD](Link Here)
+* [Java - Android App Publishing](401/java_android_app_publishing.md)
 * [Title TBD](Link Here)
 
 ### About Me
