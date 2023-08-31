@@ -84,7 +84,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Amplify Cognito](401/java_amplify_cognito.md)
 * [Java - Amazon S3](401/java_amazon_s3.md)
 * [Java - AWS Location](401/java_aws_location.md)
-* [Title TBD](Link Here)
+* [Java- Amazon Pinpoint and Polly](401/java_amazon_pinpoint_polly.md)
 * [Title TBD](Link Here)
 * [Title TBD](Link Here)
 
