@@ -86,7 +86,7 @@ This page is the home page for my reading notes as I go through Code Fellows. Be
 * [Java - AWS Location](401/java_aws_location.md)
 * [Java- Amazon Pinpoint and Polly](401/java_amazon_pinpoint_polly.md)
 * [Google AdMob & Monetization Guide](401/java_google_admob.md)
-* [Title TBD](Link Here)
+* [Ethics in Tech](401/ethics_in_tech.md)
 
 ### About Me
 
