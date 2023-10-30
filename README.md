@@ -4,6 +4,8 @@
 
 This page is the home page for my reading notes as I go through Code Fellows. Below are the table of contents.
 
+I will be updating this periodically as learning is always changing.
+
 ## Table of Contents
 
 ## Code 102 - Intro to Software Development (8 total)
