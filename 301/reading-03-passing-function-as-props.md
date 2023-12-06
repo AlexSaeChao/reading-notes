@@ -109,3 +109,13 @@ to invoke the method passed, you would attach the method to something like an ev
 [List and Key - Reading](https://legacy.reactjs.org/docs/lists-and-keys.html)
 
 [Spread Operator - Reading](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+
+[React Docs - lists and keys](https://react.dev/learn#rendering-lists)
+
+[The Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+[How to Pass Functions Between Components](https://www.youtube.com/watch?v=n-6i_WGIOKE)
+
+[React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
+
+[React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
