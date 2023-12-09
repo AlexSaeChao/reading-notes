@@ -58,11 +58,11 @@ What is the flow of props?
 
 The flow is that the data with props are beiing passed in a uni-directional flow. Oneway from parent to child.
 
-## Things I want to know more about
+### Things I want to know more about
 
 React seems to be a subset or short hand tooling of JavaScript for faster write times.
 
-#### References
+### References
 
 [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
