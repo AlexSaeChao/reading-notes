@@ -46,11 +46,11 @@ What are some examples of things that we could store in state?
 
 A counter or any data from user input. Really any thing that may have its values changed to update and re-render your app based on what the user has done.
 
-## Things I want to know more about
+### Things I want to know more about
 
 Are there any other life cycle methods that are commonly used in React?
 
-References:
+### References:
 
 [ChatGPT](https://chat.openai.com/?model=text-davinci-002-render-sha) used for summary.
 
