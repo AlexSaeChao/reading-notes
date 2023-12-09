@@ -39,3 +39,9 @@ console.log(x === y ? true : false);
 ### Things I want to know more about
 
 Can the ternary operator do more in it's form than the original way we learned conditional operators?
+
+### References:
+
+[React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+[Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
