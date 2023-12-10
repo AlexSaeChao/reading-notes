@@ -42,6 +42,6 @@ Can the ternary operator do more in it's form than the original way we learned c
 
 ### References:
 
-[React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+[How to use Forms in React](https://www.robinwieruch.de/react-ßform/)
 
-[Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
+[The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
