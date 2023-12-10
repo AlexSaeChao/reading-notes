@@ -64,3 +64,9 @@ Reduce:
 ### Things I want to know more about
 
 TBD
+
+### References
+
+[React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+[Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
