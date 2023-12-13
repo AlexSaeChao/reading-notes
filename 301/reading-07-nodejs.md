@@ -71,3 +71,9 @@ Is there another reason why V8 engine is called that besides being named after a
 [Markdown Guide - Extended Syntax](https://www.markdownguide.org/extended-syntax/#superscript)
 
 [ChatGPT for further explaination of npm and JavaScript Runtime](https://chat.openai.com/?model=text-davinci-002-render-sha)
+
+[Geocoding API Docs](https://locationiq.com/)
+
+[Axios docs](https://www.npmjs.com/package/axios)
+
+[MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)

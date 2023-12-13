@@ -49,3 +49,13 @@ What does PATCH do?
 [What Google Learned From Its Quest to Build the Perfect Team](https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
 [Rest Convo](https://gist.github.com/brookr/5977550)
+
+### APIs
+
+[Geocoding API](https://locationiq.com/)
+
+[Weather Bit API](https://www.weatherbit.io/)
+
+[Yelp API Docs](https://docs.developer.yelp.com/reference/v3_business_search)
+
+[The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
