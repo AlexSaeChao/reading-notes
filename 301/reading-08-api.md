@@ -62,12 +62,20 @@ What status code does a successful DELETE request return?
 
 > If the delete operation is successful, the web server should respond with HTTP status code 204 (No Content), indicating that the process has been successfully handled, but that the response body contains no further information. If the resource doesn't exist, the web server can return HTTP 404 (Not Found).
 
-## Things I want to know more about
+### Things I want to know more about
 
 Are there any use cases to use verbs in URIs that may be justifed?
 
 Are there any best practices for error handling and returning the appropriate status codes?
 
-## References
+### References
 
 [RESTful web API design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+
+Regex Study:
+
+[RegExr](https://regexr.com/)
+
+[Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+
+[Regex 101](https://regex101.com/)
